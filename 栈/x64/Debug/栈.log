@@ -1,0 +1,6 @@
+﻿  Queue.c
+  stack.c
+  text.c
+  正在生成代码...
+D:\c++\练习\栈和队列\栈\Queue.c(79): warning C4716: “QueueSize”: 必须返回一个值
+  栈.vcxproj -> D:\c++\练习\栈和队列\x64\Debug\栈.exe
